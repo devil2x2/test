@@ -5,7 +5,7 @@ class Test extends PHPUnit_Framework_TestCase
 		$this->assertEquals(1+1,1);
   	}
 	
-	public function testOnePlusOne() {
+	public function twoPlusTwo() {
 		$this->assertEquals(2,2);
   	}
 }
